@@ -1,4 +1,4 @@
 # Olá, mundo!
- Primeio reporitório do curso de Git e GitHub.
+ Primeio repositório do curso de Git e GitHub.
 
-Está linha eu adicionei remotamente, Uau!
+Está linha eu adicionei diretamente no site, Uau!
